@@ -2,8 +2,6 @@ Olá, seja bem vindo ao meu perfil!!! ✌🏼️
 
 - 🔭 Tenho interesse em trabalhar com front-end e desenvolvimento web
 - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas
-- 📫 How to reach me: felipedomiciano8@gmail.com
-- 🧔🏼 Pronome: Ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
